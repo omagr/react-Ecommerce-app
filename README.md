@@ -18,10 +18,10 @@
 </p>
 <h4>- mobile view</h4>
 <p>
-<img style="width:80%; border:2px solid black" src="https://raw.githubusercontent.com/omagr/react-Ecommerce-app/main/public/ss/mobile%204.png" alt="">
+<img style="width:50%; border:2px solid black" src="https://raw.githubusercontent.com/omagr/react-Ecommerce-app/main/public/ss/mobile%204.png" alt="">
 </p>
-<p><img style="width:80%; border:2px solid black" src="https://raw.githubusercontent.com/omagr/react-Ecommerce-app/main/public/ss/mobile2%201.png" alt=""></p>
-<p><img style="width:80%; border:2px solid black" src="https://raw.githubusercontent.com/omagr/react-Ecommerce-app/main/public/ss/mobile3%201.png" alt=""></p>
+<p><img style="width:50%; border:2px solid black" src="https://raw.githubusercontent.com/omagr/react-Ecommerce-app/main/public/ss/mobile2%201.png" alt=""></p>
+<p><img style="width:50%; border:2px solid black" src="https://raw.githubusercontent.com/omagr/react-Ecommerce-app/main/public/ss/mobile3%201.png" alt=""></p>
 <h2>Technologies Used</h2>
 <hr><ul>
 <li>HTML</li>
