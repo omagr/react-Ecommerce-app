@@ -12,7 +12,7 @@
   <p  align="center">
     <!-- CTA -->
     ·
-    <a href="https://whischat.vercel.app/">View Demo</a>
+    <a href="https://thepizzahut.netlify.app/">View Demo</a>
     ·
   </p>
 </div>
