@@ -34,7 +34,7 @@ function Navigation() {
                                     <span className="mr-1">
                                         {localCart.totalItems ? localCart.totalItems : 0}
                                     </span>
-                                    <i class="ri-shopping-cart-2-line"></i>
+                                    <i className="ri-shopping-cart-2-line"></i>
                                 </div>
                             </Link>
                         </li>
